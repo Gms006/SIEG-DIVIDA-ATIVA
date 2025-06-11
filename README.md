@@ -28,3 +28,5 @@ G:\EMPRESAS\GREEN AMBIENTAL LTDA\Contabilidade\Conferências\Débitos Federais\P
 ```
 
 Os arquivos são nomeados de acordo com o número da inscrição de cada dívida.
+
+Durante a execução são gerados logs informando cada etapa do processo. Caso ocorra algum erro, o script captura uma captura de tela para auxiliar na análise.
